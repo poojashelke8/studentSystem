@@ -1,6 +1,6 @@
 import React from 'react'
 import AddStudent from './AddStudent'
-import { useState,useEffect } from 'react'
+import { useState} from 'react'
 import StudentTable from './StudentTable';
 
 
